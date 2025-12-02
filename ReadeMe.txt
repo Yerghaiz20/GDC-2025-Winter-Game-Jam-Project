@@ -1,0 +1,30 @@
+UI Window Assets: Space Shooter Game User Interface
+Author: CraftPix.net 2D Game Assets
+URL: https://opengameart.org/content/space-shooter-game-user-interface
+
+Font: KenPixel FutureSquare
+Author: Kenney
+URL: https://opengameart.org/content/kenney-fonts
+
+BGM: 
+
+Main Menu: Magic Space
+Author: CodeManu
+URL: https://opengameart.org/content/magic-space
+
+Stage 1/2/3: DST-TowerDefenseTheme
+Author: DST
+URL: https://opengameart.org/content/tower-defense-theme
+
+GameOver: The Field Of Dreams
+Author: pauliuw
+URL: https://opengameart.org/content/the-field-of-dreams
+
+Ending: 8-Bit Victory Loop
+Author: Wolfgang_
+URL: https://opengameart.org/content/8-bit-victory-loop
+
+All other art assets: Joshua Buike
+
+All Programming and UX: Joshua Goodwin
+
